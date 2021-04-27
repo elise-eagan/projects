@@ -1,0 +1,11 @@
+implementation,test_group,duration,last_day,exposed_users,ss_cart,d1_cart,d7_cart,d14_cart,ss_redeem,d1_redeem,d7_redeem,d14_redeem,ss_nominate,d1_nominate,d7_nominate,d14_nominate
+Pendo,Add Congrats Test | Variant 1,96,14:18.0,726,13,16,26,35,8,9,17,24,24,45,97,133
+Pendo,Add Congrats Test | Control,92,05:03.5,154,3,4,4,8,0,0,1,3,5,10,15,21
+Pendo,Nominate Test | Control,208,08:56.8,15821,315,398,682,889,169,219,448,615,540,681,1257,1694
+Pendo,Nominate Test | Variant 1,217,29:42.0,15832,301,398,714,957,157,234,499,684,526,680,1275,1691
+Pendo,Abandon Cart Test | Variant 1,77,40:32.3,6500,4089,4353,4737,4855,990,1221,1709,1942,359,673,829,919
+Pendo,Abandon Cart Test | Control,77,48:45.1,4234,1677,1907,2277,2419,594,750,1053,1195,154,425,520,575
+Optimizely,Test A | Control,77,43:57.4,2850,27,54,137,188,20,42,112,158,110,251,483,661
+Optimizely,Test A | Variant 1,71,56:28.7,511,3,11,13,13,0,3,3,3,57,236,236,236
+Optimizely,Test B | Control,71,56:28.7,2923,25,53,92,109,0,3,3,3,57,236,236,236
+Optimizely,Test B | Variant 1,71,56:28.7,511,3,11,13,13,0,3,3,3,57,236,236,236
